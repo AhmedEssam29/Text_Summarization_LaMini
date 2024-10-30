@@ -56,7 +56,8 @@ The app is structured in three main parts:
 ## Screenshot
 
 To view the app interface, see the image below:
-![App Image](C:\Users\a.essam\Downloads\Program.png)
+![alt text](https://github.com/AhmedEssam29/Text_Summarization_LaMini
+/blob/main/Program.png?raw=true)
 
 
 
